@@ -1,25 +1,16 @@
-# Uplift Your Space
+# Super Magras
 
-Migracao inicial do projeto Lovable **Uplift Your Space** para GitHub.
+Site institucional completo migrado para GitHub Pages, com home, protocolos, contato, politica de privacidade, termos de uso e isencao de responsabilidade.
 
-Projeto original Lovable: https://lovable.dev/projects/8cce399c-fe7e-46d2-bd18-0e89b4f8be3c
+## Rodar localmente
 
-## Status
-
-- Primeira versao funcional em React + Vite.
-- Publicacao preparada via GitHub Pages workflow.
-- Vitrine inicial para portfolio/design de interiores.
-- Upload/gerenciamento de portfolio fica para segunda etapa.
-
-## Desenvolvimento
-
-```sh
+```bash
 npm install
 npm run dev
 ```
 
 ## Build
 
-```sh
+```bash
 npm run build
 ```
